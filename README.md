@@ -1,9 +1,11 @@
 # awesome-containerized-security
-A collection of tools to improve your containerized apps security posture - with Github Action examples
+A collection of tools to improve your containerized apps security posture.
 
 This aspires to be a curated list of awesome tools you can use in order to improve your security posture. The focus is on containerized applications. 
 
 Want to add something? Open a PR :) 
+
+> Github Action examples coming soon, providing easy-to-use examples for your CI pipeline
 
 ## Static code analysis
 
@@ -34,16 +36,25 @@ Want to add something? Open a PR :)
 - [jfrog xray](https://jfrog.com/xray/)
 - [qualys](https://www.qualys.com/apps/container-security/)
 - [aquasec](https://www.aquasec.com/products/container-vulnerability-scanning/)
+- [twistlock](https://www.esecurityplanet.com/products/twistlock/)
 
 
 ## Container Security Tools
 
 - [kyverno](https://kyverno.io/)
 - [falco](https://falco.org/)
-- [k8s pod security policies](https://kubernetes.io/docs/concepts/security/pod-security-policy/)
-- [k8s network policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - [cert-manager](https://cert-manager.io/docs/)
 - [anchore](https://anchore.com/opensource/)
+- [ksniff](https://github.com/eldadru/ksniff) sniff k8s pods traffic
+- [k8s pod security policies](https://kubernetes.io/docs/concepts/security/pod-security-policy/)
+
+## Kubernetes cluster security
+
+- [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [k8s network policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+- [eksuser](https://github.com/prabhatsharma/eksuser/)
+- [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+- [kube-bench](https://github.com/aquasecurity/kube-bench)
 
 
 ## Dependencies management
@@ -58,4 +69,5 @@ Want to add something? Open a PR :)
 ## Web Application Scanning
 
 - [detectify](https://detectify.com/product/application-scanning)
+- [qualys](https://www.qualys.com/apps/web-app-scanning/)
 

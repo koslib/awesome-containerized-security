@@ -84,3 +84,5 @@ Want to add something? Open a PR :)
 - [detectify](https://detectify.com/product/application-scanning)
 - [qualys](https://www.qualys.com/apps/web-app-scanning/)
 
+## Infrastructure Security Assessment
+- [prowler](https://prowler.pro/)

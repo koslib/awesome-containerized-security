@@ -37,6 +37,7 @@ Want to add something? Open a PR :)
 - [qualys](https://www.qualys.com/apps/container-security/)
 - [aquasec](https://www.aquasec.com/products/container-vulnerability-scanning/)
 - [twistlock](https://www.esecurityplanet.com/products/twistlock/)
+- [trivy](https://github.com/aquasecurity/trivy)
 
 
 ## Container Security Tools

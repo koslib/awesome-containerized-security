@@ -38,6 +38,7 @@ Want to add something? Open a PR :)
 - [aquasec](https://www.aquasec.com/products/container-vulnerability-scanning/)
 - [twistlock](https://www.esecurityplanet.com/products/twistlock/)
 - [trivy](https://github.com/aquasecurity/trivy)
+- [grype](https://github.com/anchore/grype)
 
 
 ## Container Security Tools

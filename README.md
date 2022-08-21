@@ -60,6 +60,7 @@ Want to add something? Open a PR :)
 - [kube-scan](https://github.com/octarinesec/kube-scan) cluster risk assessment
 - [teleport](https://github.com/gravitational/teleport)
 - [kubescape](https://github.com/armosec/kubescape) misconfiguration scanning
+- [datree](https://github.com/datreeio/datree) E2E policy enforcement solution
 
 
 ## Runtime level security

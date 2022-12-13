@@ -18,11 +18,12 @@ Want to add something? Open a PR :)
 - [snyk code](https://snyk.io/product/snyk-code/)
 
 
-## Image scanning
+## Image scanning / Registry
 
 - [docker scan](https://docs.docker.com/engine/scan/)
 - [AWS ECR Image Scanning](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
 - [Azure Container Registry scanning](https://azure.microsoft.com/en-us/updates/vulnerability-scanning-for-images-in-azure-container-registry-is-now-generally-available/)
+- [opa-docker-authz](https://github.com/open-policy-agent/opa-docker-authz) policy-enabled authorization plugin for Docker
 
 ## Container Scanning
 

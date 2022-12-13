@@ -61,6 +61,7 @@ Want to add something? Open a PR :)
 - [teleport](https://github.com/gravitational/teleport)
 - [kubescape](https://github.com/armosec/kubescape) misconfiguration scanning
 - [datree](https://github.com/datreeio/datree) E2E policy enforcement solution
+- [kubeshark](https://github.com/kubeshark/kubeshark) think TCPDump and Wireshark re-invented for Kubernetes
 
 
 ## Runtime level security

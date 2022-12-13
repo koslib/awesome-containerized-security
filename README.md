@@ -79,6 +79,7 @@ Want to add something? Open a PR :)
 - [doppins](https://doppins.com)
 - [tidelift](https://tidelift.com)
 - [fossa](https://fossa.com)
+- [diun](https://github.com/crazy-max/diun)
 
 
 ## Attack Surface Management

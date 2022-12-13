@@ -90,3 +90,7 @@ Want to add something? Open a PR :)
 
 ## Infrastructure Security Assessment
 - [prowler](https://prowler.pro/)
+
+## Monitoring
+
+- [weave scope](https://www.weave.works/oss/scope/) automatically detects processes, containers, hosts. No kernel modules, no agents, no special libraries, no coding. Seamless integration with Docker, Kubernetes, DCOS and AWS ECS.

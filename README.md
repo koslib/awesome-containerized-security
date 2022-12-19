@@ -53,6 +53,8 @@ Want to add something? Open a PR :)
 - [ksniff](https://github.com/eldadru/ksniff) sniff k8s pods traffic
 - [k8s pod security policies](https://kubernetes.io/docs/concepts/security/pod-security-policy/)
 - [secret-diver](https://github.com/cider-rnd/secret-diver) analyzes secrets in containers
+- [oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook) OCI hook to trace syscalls and generate a seccomp profile
+
 
 ## Kubernetes cluster security
 

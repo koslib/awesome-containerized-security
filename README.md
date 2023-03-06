@@ -101,3 +101,7 @@ Want to add something? Open a PR :)
 ## Monitoring
 
 - [weave scope](https://www.weave.works/oss/scope/) automatically detects processes, containers, hosts. No kernel modules, no agents, no special libraries, no coding. Seamless integration with Docker, Kubernetes, DCOS and AWS ECS.
+
+## Vulnerabilities
+
+- [metahub](https://github.com/gabrielsoltz/metahub) is an ASFF security context enrichment and command line utility for AWS Security Hub.

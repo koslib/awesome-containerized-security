@@ -24,6 +24,8 @@ Want to add something? Open a PR :)
 - [AWS ECR Image Scanning](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
 - [Azure Container Registry scanning](https://azure.microsoft.com/en-us/updates/vulnerability-scanning-for-images-in-azure-container-registry-is-now-generally-available/)
 - [opa-docker-authz](https://github.com/open-policy-agent/opa-docker-authz) policy-enabled authorization plugin for Docker
+- [cosign](https://github.com/sigstore/cosign) Container Signing, Verification and Storage in an OCI registry.
+
 
 ## Container Scanning
 
@@ -51,6 +53,8 @@ Want to add something? Open a PR :)
 - [ksniff](https://github.com/eldadru/ksniff) sniff k8s pods traffic
 - [k8s pod security policies](https://kubernetes.io/docs/concepts/security/pod-security-policy/)
 - [secret-diver](https://github.com/cider-rnd/secret-diver) analyzes secrets in containers
+- [oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook) OCI hook to trace syscalls and generate a seccomp profile
+
 
 ## Kubernetes cluster security
 
@@ -98,3 +102,7 @@ Want to add something? Open a PR :)
 ## Monitoring
 
 - [weave scope](https://www.weave.works/oss/scope/) automatically detects processes, containers, hosts. No kernel modules, no agents, no special libraries, no coding. Seamless integration with Docker, Kubernetes, DCOS and AWS ECS.
+
+## Vulnerabilities
+
+- [metahub](https://github.com/gabrielsoltz/metahub) is an ASFF security context enrichment and command line utility for AWS Security Hub.

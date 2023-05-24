@@ -58,6 +58,7 @@ Want to add something? Open a PR :)
 
 ## Kubernetes cluster security
 
+- [neuvector](https://github.com/neuvector/neuvector) NeuVector is a kubernetes-native container security platform that delivers complete zero trust container security
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - [k8s network policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - [eksuser](https://github.com/prabhatsharma/eksuser/)

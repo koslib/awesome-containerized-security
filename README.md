@@ -69,6 +69,7 @@ Want to add something? Open a PR :)
 - [kubescape](https://github.com/armosec/kubescape) misconfiguration scanning
 - [datree](https://github.com/datreeio/datree) E2E policy enforcement solution
 - [kubeshark](https://github.com/kubeshark/kubeshark) think TCPDump and Wireshark re-invented for Kubernetes
+- [KubeHound](https://github.com/DataDog/KubeHound) is a Kubernetes attack graph tool allowing automated calculation of attack paths between assets in a cluster
 
 
 ## Runtime level security

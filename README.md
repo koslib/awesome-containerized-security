@@ -80,6 +80,7 @@ Want to add something? Open a PR :)
 
 ## Dependencies management
 
+- [Anchor](https://github.com/songStitch/anchor/)
 - [dependabot](https://github.com/dependabot)
 - [renovate](https://github.com/renovatebot/renovate)
 - [greenkeeper](https://greenkeeper.io) for npm dependencies
